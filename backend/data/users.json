@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "gender": "male",
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "phone": "9876543210",
+    "gender": "female",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bobjohnson@example.com",
+    "phone": "5555555555",
+    "gender": "male",
+    "city": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "Alice Brown",
+    "email": "alicebrown@example.com",
+    "phone": "1111111111",
+    "gender": "female",
+    "city": "San Francisco"
+  },
+  {
+    "id": 5,
+    "name": "Mike Davis",
+    "email": "mikedavis@example.com",
+    "phone": "2222222222",
+    "gender": "male",
+    "city": "Seattle"
+  },
+  {
+    "id": 6,
+    "name": "Emily Wilson",
+    "email": "emilywilson@example.com",
+    "phone": "3333333333",
+    "gender": "female",
+    "city": "Boston"
+  },
+  {
+    "id": 7,
+    "name": "David Lee",
+    "email": "davidlee@example.com",
+    "phone": "4444444444",
+    "gender": "male",
+    "city": "Houston"
+  },
+  {
+    "id": 8,
+    "name": "Sarah Johnson",
+    "email": "sarahjohnson@example.com",
+    "phone": "6666666666",
+    "gender": "female",
+    "city": "Miami"
+  },
+  {
+    "id": 9,
+    "name": "Chris Smith",
+    "email": "chrissmith@example.com",
+    "phone": "7777777777",
+    "gender": "male",
+    "city": "Denver"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Taylor",
+    "email": "oliviataylor@example.com",
+    "phone": "8888888888",
+    "gender": "female",
+    "city": "Phoenix"
+  },
+  { "id": 11, "name": "ajay" }
+]
